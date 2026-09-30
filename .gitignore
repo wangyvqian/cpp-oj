@@ -8,6 +8,9 @@
 # cph-ng 测试缓存
 .cph-ng/
 
+# Godot 项目（不上传）
+tafang/
+
 # VS Code 用户级配置（保留 tasks/launch 等可按需调整）
 .vscode/*
 !.vscode/tasks.json
