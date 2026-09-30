@@ -1,0 +1,4 @@
+-std=c++26
+--target=x86_64-w64-windows-gnu
+-IC:/msys64/ucrt64/include
+-IC:/msys64/ucrt64/x86_64-w64-mingw32/include

@@ -1,0 +1,16 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+# cph-ng 测试缓存
+.cph-ng/
+
+# VS Code 用户级配置（保留 tasks/launch 等可按需调整）
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/c_cpp_properties.json
+!.vscode/settings.json
